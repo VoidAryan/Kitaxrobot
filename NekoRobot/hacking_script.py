@@ -1,13 +1,13 @@
 PM_START_TEXT = """
-────「 [{}](https://telegra.ph/file/bdc771a084e2c806ec756.jpg) 」────
-*やあ! {} My Darling, Iam your SweetHeart💜,
-I am an Anime themed advance group management bot with a lot of Sexy Features.*
+────「 [{}](https://telegra.ph/file/b90e5a43549c41c64b8a8.jpg) 」────
+*Konichiwa! {} Weebs, Iam Kita Shinsuke,
+I am an Anime themed advance group management bot with a lot of Basic Features.*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-◈ *Uptime:* `{}`
-◈ `{}` *users, across* `{}` *chats.*
-◈ *Thanks To @NekoXRobot For NekoRobot Repo*
+◈ *Working Since:* `{}`
+◈ `{}` *Weebs, across* `{}` *GroupChats.*
+◈ *Kita Works Under [【V๏ɪ፝֟𝔡】](t.me/voidxnetwork)*
 ➖➖➖➖➖➖➖➖➖➖➖➖➖
-➢ Try The Help Buttons Below To Know My Abilities ♡
+➢ Try The Help Buttons Below To Know My True Ability
 """
 
 
